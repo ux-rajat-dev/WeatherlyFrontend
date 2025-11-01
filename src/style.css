@@ -1,7 +1,7 @@
-@import url('https://uimaxbai.github.io/assets/css/aptos.css');
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@300;400;500;600;700&display=swap');
 
 body {
-  font-family: 'Aptos', sans-serif;
+  font-family: 'Saira', sans-serif;
 
   background: linear-gradient(135deg, #89f7fe, #66a6ff);
   height: 100vh;
