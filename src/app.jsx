@@ -50,7 +50,6 @@ function App() {
           {loading ? (
             <>
               <div className="spinner"></div>
-              <span>Loading...</span>
             </>
           ) : (
             'Search'
