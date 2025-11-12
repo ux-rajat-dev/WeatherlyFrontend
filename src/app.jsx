@@ -15,7 +15,7 @@ function App() {
       setLoading(true); // 👈 Start loading
 
       const response = await fetch(
-        `https://weatherlybackend.onrender.com/weather/${city}`
+        `https://rajat567-weatherlybackend.hf.space/weather/${city}`
       );
       const data = await response.json();
 
